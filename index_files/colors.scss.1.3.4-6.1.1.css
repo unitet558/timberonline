@@ -1,0 +1,15 @@
+:root {
+  --primaryColor: #b2b2b2;
+  --links: #000000;
+  --background: #ffffff;
+  --secodnary: #6c757d;
+  --textDark: #212529;
+  --textLight: #212529;
+  --section: #ffffff;
+  --bodyFontSize: 22px;
+  --fontFamily: Reem Kufi;
+  --headerBg: #ffffff;
+  --footerBg: #ff7a01;
+  --menuColor: #000000;
+  --btnText: #ffffff;
+}
